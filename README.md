@@ -12,4 +12,4 @@
 https://lakelonbailey.github.io/PasswordGenerator/
 
 ## Template
-![image](./assets/template)
+![image](./assets/template.png)
