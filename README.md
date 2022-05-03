@@ -11,5 +11,10 @@
 ## Application Link
 https://lakelonbailey.github.io/PasswordGenerator/
 
+## Contributors
+
 ## Template
 ![image](./assets/template.png)
+
+## Contribution
+Javascript code developed by Lakelon Bailey in May 2022.
