@@ -1,5 +1,8 @@
 // Assignment code here
+function generatePassword() {
+  var numChar = window.prompt("Choose a password length from 8-128 characters, inclusively: ");
 
+}
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
