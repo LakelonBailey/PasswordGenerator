@@ -11,8 +11,6 @@
 ## Application Link
 https://lakelonbailey.github.io/PasswordGenerator/
 
-## Contributors
-
 ## Template
 ![image](./assets/template.png)
 
